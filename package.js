@@ -1,6 +1,6 @@
 Package.describe({
   name: 'clinical:hl7-resource-sequence',
-  version: '1.3.0',
+  version: '1.3.1',
   summary: 'HL7 FHIR Resource - Sequence',
   git: 'https://github.com/clinical-meteor/hl7-resource-sequence',
   documentation: 'README.md'
